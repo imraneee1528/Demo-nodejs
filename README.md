@@ -1,13 +1,13 @@
 # Demo-nodejs
-#For server Setup use root user
+# For server Setup use root user
 source setup-files/nodejs-server-setup.sh
-#For project run
+# For project run
 cd chat-example
 #For .env add 
 npm i dotenv
 # install yarn
 npm install --global yarn
-# for pakages add
+# For pakages add
 yarn
 # For  nodemon add
 yarn add nodemon
